@@ -3,7 +3,7 @@
 #include "pch.h"
 
 std::string Employee::print() {
-	return firstName + " " + lastName + " " + address + " " + city + " " + state + " " + zip + " " + employeeNumber + " " + jobTitle;
+	return firstName + ", " + lastName + ", " + address + ", " + city + ", " + state + ", " + zip + ", " + employeeNumber + ", " + jobTitle;
 };
 
 Employee::Employee(std::string fName, std::string lName, std::string pNum, std::string add, std::string c, std::string s, std::string z, std::string num, std::string jTitle) {
@@ -48,7 +48,7 @@ std::string Employee::getFirstName() {
 	return Employee::firstName;
 }
 std::string Employee::getLastName() {
-	return Employee::lastName;
+	return this->lastName;
 }
 std::string Employee::getHomePhone() {
 	return Employee::homePhone;

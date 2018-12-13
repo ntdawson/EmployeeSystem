@@ -1,2 +1,3 @@
+susan, Jones, 123 fake street, capetown, BR, 01015, 001, Boss
 Ezra, James, 123 real lane, Night Town, BA, 05051, 005, Grunt
-susan, jones, 123 fake street, capetown, BR, 01015, 001, Boss
+Lacy, Fra, 155 nope street, Lae Town, BZ, 04451, 021, Grunt

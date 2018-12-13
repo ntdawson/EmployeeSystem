@@ -48,7 +48,7 @@ std::string Employee::getFirstName() {
 	return Employee::firstName;
 }
 std::string Employee::getLastName() {
-	return this->lastName;
+	return Employee::lastName;
 }
 std::string Employee::getHomePhone() {
 	return Employee::homePhone;
